@@ -1,8 +1,5 @@
 #EXTM3U
 
-######################  AZE  #############
-
-
 
 #EXTINF:-1 tvg-name="AzTV", group-title="Azerbaycan",
 http://str.yodacdn.net/azertv/index.m3u8
@@ -75,9 +72,6 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-name="Azerbaijan Music Hit", group-title="Azerbaycan",
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 
-
-
-####################### TURK ##############################
 
 
 #EXTINF:-1 tvg-name="1. TRT 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",1. TRT 1
@@ -242,7 +236,6 @@ https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-id="" tvg-logo="https://imgs.search.brave.com/ZySlRQ1Qe-akzY3F8XnduCqrO3twE1jp90iHc9z1j-o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20vYXJpbWFuZ2dh/bGEvYXJpbWFuZ2dh/bGEyMDA1L2FyaW1h/bmdnYWxhMjAwNTAw/MDE3LzE0NjcyMzkw/My1uYXR1cmUtbG92/ZS1sb2dvLWdyZWVu/LWxlYWYtZGVzaWdu/LmpwZz92ZXI9Ng" group-title="Belgesel",Love Nature
 https://mss.ayakkabiparti.lol/lovenature/index.m3u8
 
-########################Alwan###############
 
 #EXTINF:-1 tvg-name="Alwan", group-title="Alwan",
 http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859098&extension=ts&play_token=fYlGTsVsz2
